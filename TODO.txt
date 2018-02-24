@@ -1,0 +1,14 @@
+-create (basic) database
+	-model(s)
+
+-create routes for html and our API
+
+============================================
+
+-allow user to log in
+
+-manipulate data on front end
+
+============================================
+
+-work on UI/design

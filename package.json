@@ -1,7 +1,6 @@
 {
   "name": "project-2",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,7 +13,17 @@
     "express": "^4.16.2",
     "mysql": "^2.15.0",
     "mysql2": "^1.5.2",
+    "node-twitter-api": "^1.8.0",
     "path": "^0.12.7",
-    "sequelize": "^4.33.4"
-  }
+    "sequelize": "^4.34.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trey10hughes/project-2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/trey10hughes/project-2/issues"
+  },
+  "homepage": "https://github.com/trey10hughes/project-2#readme",
+  "description": ""
 }
